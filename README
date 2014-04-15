@@ -2,4 +2,4 @@ This program was to calculate the magnetization and charge density of multiorbit
 
 See article: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.79.104510
 
-Here I applied Householder's method and QL algorithm for matrix diagonalization, gradient descent for 4 variabels of magnetization and charge density, sort algorithms for Fermi level, parallel simulation was with MPI.
+Here I applied Householder's method and QL algorithm for matrix diagonalization, gradient descent for 4 variables of magnetization and charge density, sort algorithms for Fermi level, parallel simulation was with MPI.
